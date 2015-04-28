@@ -6,9 +6,9 @@ n = 100
 ns = 8
  
 theta0 = 1.0
-theta1 = 16.0
+theta1 = 50.0
 theta2 = 0.0
-theta3 = 16.0
+theta3 = 0.0
  
 beta = 2.0
  
